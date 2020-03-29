@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>SIVA1</finalName>
+    <finalName>SIVA2</finalName>
   </build>
 </project>
